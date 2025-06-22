@@ -37,18 +37,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "maheshbabudara"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maheshbabudara&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:/maheshbabudara/Zeptoselenium.git",
-    "accountId": "984b997a-0bc0-489b-b00c-b89ccff97f63"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/maheshbabudara/Zeptoselenium.git&quot;,
+    &quot;accountId&quot;: &quot;984b997a-0bc0-489b-b00c-b89ccff97f63&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -58,27 +58,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for Countrie_web.test_country_web.executor": "Run",
-    "Python tests.Python tests for Countrie_web.test_youtube.executor": "Run",
-    "Python tests.Python tests for test_blog_all.test_blog.executor": "Run",
-    "Python tests.Python tests for test_blog_all.test_square.executor": "Run",
-    "Python tests.Python tests for test_blog_practise.test_blog.executor": "Run",
-    "Python tests.Python tests for test_blog_practise.test_check.executor": "Run",
-    "Python tests.Python tests for test_demo_login.test_demo_login.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Python_Selenium/Selenium",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for Countrie_web.test_country_web.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Countrie_web.test_youtube.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_blog_all.test_blog.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_blog_all.test_square.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_blog_practise.test_blog.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_blog_practise.test_check.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_demo_login.test_demo_login.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MAHESH/ci-cd-action&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for Countrie_web.test_country_web">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Zeptoselenium" />
