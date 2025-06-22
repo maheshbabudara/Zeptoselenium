@@ -21,18 +21,18 @@ def demo():
     demo.maximize_window()
     yield demo
     demo.close()
-#
-#
-# @pytest.fixture()
-# def tes():
-#     tes=WebDriver()
-#     option=Options()
-#     tes.get("https://testautomationpractice.blogspot.com/")
-#     tes.implicitly_wait(10)
-#     tes.maximize_window()
-#     yield tes
-#     # tes.close()
-#
+
+@pytest.fixture()
+def tes():
+    tes=WebDriver()
+    option=Options()
+    tes.get("https://testautomationpractice.blogspot.com/")
+    tes.implicitly_wait(10)
+    tes.maximize_window()
+    yield tes
+    # tes.close()
+
+
 # @pytest.fixture()
 # def b():
 #     b=WebDriver()
@@ -58,9 +58,6 @@ from selenium.webdriver.edge.service import Service as EdgeService
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.firefox.service import Service as FirefoxService
 location = os.getcwd()
-
-
-
 
 @pytest.fixture
 def b():
