@@ -1,0 +1,1181 @@
+Country--> Afghanistan #--> 
+Country--> Afghanistan #--> Afghanistan
+Country--> Afghanistan #--> Kabul
+Country--> Afghanistan #--> Afghani
+Country--> Afghanistan #--> Dari Persian; Pashto
+
+Country--> Albania #--> 
+Country--> Albania #--> Albania
+Country--> Albania #--> Tirane
+Country--> Albania #--> Lek
+Country--> Albania #--> Albanian
+
+Country--> Algeria #--> 
+Country--> Algeria #--> Algeria
+Country--> Algeria #--> Algiers
+Country--> Algeria #--> Algerian Dinar
+Country--> Algeria #--> Arabic; Tamazight; French
+
+Country--> Andorra #--> 
+Country--> Andorra #--> Andorra
+Country--> Andorra #--> Andorra la Vella
+Country--> Andorra #--> Euro
+Country--> Andorra #--> Catalan
+
+Country--> Angola #--> 
+Country--> Angola #--> Angola
+Country--> Angola #--> Luanda
+Country--> Angola #--> Kwanza
+Country--> Angola #--> Portuguese
+
+Country--> Antigua & Barbuda #--> 
+Country--> Antigua & Barbuda #--> Antigua & Barbuda
+Country--> Antigua & Barbuda #--> Saint John’s
+Country--> Antigua & Barbuda #--> East Caribbean Dollar
+Country--> Antigua & Barbuda #--> English
+
+Country--> Argentina #--> 
+Country--> Argentina #--> Argentina
+Country--> Argentina #--> Buenos Aires
+Country--> Argentina #--> Argentine Peso
+Country--> Argentina #--> Spanish
+
+Country--> Armenia #--> 
+Country--> Armenia #--> Armenia
+Country--> Armenia #--> Yerevan
+Country--> Armenia #--> Dram
+Country--> Armenia #--> Armenian
+
+Country--> Australia #--> 
+Country--> Australia #--> Australia
+Country--> Australia #--> Canberra
+Country--> Australia #--> Australian Dollar
+Country--> Australia #--> English
+
+Country--> Austria #--> 
+Country--> Austria #--> Austria
+Country--> Austria #--> Vienna
+Country--> Austria #--> Euro
+Country--> Austria #--> German
+
+Country--> Azerbaijan #--> 
+Country--> Azerbaijan #--> Azerbaijan
+Country--> Azerbaijan #--> Baku
+Country--> Azerbaijan #--> Manat
+Country--> Azerbaijan #--> Azerbaijani
+
+Country--> The Bahamas #--> 
+Country--> The Bahamas #--> The Bahamas
+Country--> The Bahamas #--> Nassau
+Country--> The Bahamas #--> Bahamian Dollar
+Country--> The Bahamas #--> English
+
+Country--> Bahrain #--> 
+Country--> Bahrain #--> Bahrain
+Country--> Bahrain #--> Manama
+Country--> Bahrain #--> Bahraini Dinar
+Country--> Bahrain #--> Arabic
+
+Country--> Bangladesh #--> 
+Country--> Bangladesh #--> Bangladesh
+Country--> Bangladesh #--> Dhaka
+Country--> Bangladesh #--> Taka
+Country--> Bangladesh #--> Bangla
+
+Country--> Barbados #--> 
+Country--> Barbados #--> Barbados
+Country--> Barbados #--> Bridgetown
+Country--> Barbados #--> Barbadian Dollar
+Country--> Barbados #--> English
+
+Country--> Belarus #--> 
+Country--> Belarus #--> Belarus
+Country--> Belarus #--> Minsk
+Country--> Belarus #--> Belarusian Ruble
+Country--> Belarus #--> Belarusian; Russian
+
+Country--> Belgium #--> 
+Country--> Belgium #--> Belgium
+Country--> Belgium #--> Brussels
+Country--> Belgium #--> Euro
+Country--> Belgium #--> Dutch; French; German
+
+Country--> Belize #--> 
+Country--> Belize #--> Belize
+Country--> Belize #--> Belmopan
+Country--> Belize #--> Belize Dollar
+Country--> Belize #--> English
+
+Country--> Benin #--> 
+Country--> Benin #--> Benin
+Country--> Benin #--> Porto-Novo
+Country--> Benin #--> West African CFA Franc
+Country--> Benin #--> French
+
+Country--> Bhutan #--> 
+Country--> Bhutan #--> Bhutan
+Country--> Bhutan #--> Thimphu
+Country--> Bhutan #--> Ngultrum
+Country--> Bhutan #--> Dzongkha
+
+Country--> Bolivia #--> 
+Country--> Bolivia #--> Bolivia
+Country--> Bolivia #--> La Paz; Sucre
+Country--> Bolivia #--> Boliviano
+Country--> Bolivia #--> Spanish; Quechua; Aymara
+
+Country--> Bosnia and Herzegovina #--> 
+Country--> Bosnia and Herzegovina #--> Bosnia and Herzegovina
+Country--> Bosnia and Herzegovina #--> Sarajevo
+Country--> Bosnia and Herzegovina #--> Convertible Mark
+Country--> Bosnia and Herzegovina #--> Bosnian; Croatian; Serbian
+
+Country--> Botswana #--> 
+Country--> Botswana #--> Botswana
+Country--> Botswana #--> Gaborone
+Country--> Botswana #--> Pula
+Country--> Botswana #--> English; Tswana
+
+Country--> Brazil #--> 
+Country--> Brazil #--> Brazil
+Country--> Brazil #--> Brasilia
+Country--> Brazil #--> Real
+Country--> Brazil #--> Portuguese
+
+Country--> Brunei #--> 
+Country--> Brunei #--> Brunei
+Country--> Brunei #--> Bandar Seri Begawan
+Country--> Brunei #--> Brunei Dollar
+Country--> Brunei #--> Malay
+
+Country--> Bulgaria #--> 
+Country--> Bulgaria #--> Bulgaria
+Country--> Bulgaria #--> Sofia
+Country--> Bulgaria #--> Lev
+Country--> Bulgaria #--> Bulgarian
+
+Country--> Burkina Faso #--> 
+Country--> Burkina Faso #--> Burkina Faso
+Country--> Burkina Faso #--> Ouagadougou
+Country--> Burkina Faso #--> West African CFA Franc
+Country--> Burkina Faso #--> French
+
+Country--> Burundi #--> 
+Country--> Burundi #--> Burundi
+Country--> Burundi #--> Bujumbura
+Country--> Burundi #--> Burundi Franc
+Country--> Burundi #--> Kirundi; French
+
+Country--> Cambodia #--> 
+Country--> Cambodia #--> Cambodia
+Country--> Cambodia #--> Phnom Penh
+Country--> Cambodia #--> Riel
+Country--> Cambodia #--> Khmer
+
+Country--> Cameroon #--> 
+Country--> Cameroon #--> Cameroon
+Country--> Cameroon #--> Yaounde
+Country--> Cameroon #--> Central African CFA Franc
+Country--> Cameroon #--> French; English
+
+Country--> Canada #--> 
+Country--> Canada #--> Canada
+Country--> Canada #--> Ottawa
+Country--> Canada #--> Canadian Dollar
+Country--> Canada #--> English; French
+
+Country--> Cape Verde #--> 
+Country--> Cape Verde #--> Cape Verde
+Country--> Cape Verde #--> Praia
+Country--> Cape Verde #--> Cape Verdean Escudo
+Country--> Cape Verde #--> Portuguese
+
+Country--> Central African Republic #--> 
+Country--> Central African Republic #--> Central African Republic
+Country--> Central African Republic #--> Bangui
+Country--> Central African Republic #--> Central African CFA Franc
+Country--> Central African Republic #--> Sango; French
+
+Country--> Chad #--> 
+Country--> Chad #--> Chad
+Country--> Chad #--> N’Djamena
+Country--> Chad #--> Central African CFA Franc
+Country--> Chad #--> French; Arabic
+
+Country--> Chile #--> 
+Country--> Chile #--> Chile
+Country--> Chile #--> Santiago
+Country--> Chile #--> Chilean Peso
+Country--> Chile #--> Spanish
+
+Country--> China #--> 
+Country--> China #--> China
+Country--> China #--> Beijing
+Country--> China #--> Chinese Yuan
+Country--> China #--> Mandarin
+
+Country--> Colombia #--> 
+Country--> Colombia #--> Colombia
+Country--> Colombia #--> Bogota
+Country--> Colombia #--> Colombian Peso
+Country--> Colombia #--> Spanish
+
+Country--> Comoros #--> 
+Country--> Comoros #--> Comoros
+Country--> Comoros #--> Moron
+Country--> Comoros #--> Comorian Franc
+Country--> Comoros #--> Comorian; Arabic; French
+
+Country--> Democratic Republic Of the Congo #--> 
+Country--> Democratic Republic Of the Congo #--> Democratic Republic Of the Congo
+Country--> Democratic Republic Of the Congo #--> Kinshasa
+Country--> Democratic Republic Of the Congo #--> Congolese Franc
+Country--> Democratic Republic Of the Congo #--> French
+
+Country--> Republic of the Congo #--> 
+Country--> Republic of the Congo #--> Republic of the Congo
+Country--> Republic of the Congo #--> Brazzaville
+Country--> Republic of the Congo #--> Central African CFA Franc
+Country--> Republic of the Congo #--> French
+
+Country--> Costa Rica #--> 
+Country--> Costa Rica #--> Costa Rica
+Country--> Costa Rica #--> San Jose
+Country--> Costa Rica #--> Colon
+Country--> Costa Rica #--> Spanish
+
+Country--> Cote d’Ivoire (Ivory Coast) #--> 
+Country--> Cote d’Ivoire (Ivory Coast) #--> Cote d’Ivoire (Ivory Coast)
+Country--> Cote d’Ivoire (Ivory Coast) #--> Yamoussoukro; Abidjan
+Country--> Cote d’Ivoire (Ivory Coast) #--> West African CFA Franc
+Country--> Cote d’Ivoire (Ivory Coast) #--> French
+
+Country--> Croatia #--> 
+Country--> Croatia #--> Croatia
+Country--> Croatia #--> Zagreb
+Country--> Croatia #--> Croatian
+Country--> Croatia #--> Kuna
+
+Country--> Cuba #--> 
+Country--> Cuba #--> Cuba
+Country--> Cuba #--> Havana
+Country--> Cuba #--> Cuban Peso
+Country--> Cuba #--> Spanish
+
+Country--> Cyprus #--> 
+Country--> Cyprus #--> Cyprus
+Country--> Cyprus #--> Nicosia
+Country--> Cyprus #--> Euro
+Country--> Cyprus #--> Greek; Turkish
+
+Country--> Czechia #--> 
+Country--> Czechia #--> Czechia
+Country--> Czechia #--> Prague
+Country--> Czechia #--> Czech Koruna
+Country--> Czechia #--> Czech; Slovak
+
+Country--> Denmark #--> 
+Country--> Denmark #--> Denmark
+Country--> Denmark #--> Copenhagen
+Country--> Denmark #--> Danish Krone
+Country--> Denmark #--> Danish
+
+Country--> Djibouti #--> 
+Country--> Djibouti #--> Djibouti
+Country--> Djibouti #--> Djibouti
+Country--> Djibouti #--> Djiboutian Franc
+Country--> Djibouti #--> Arabic; French
+
+Country--> Dominica #--> 
+Country--> Dominica #--> Dominica
+Country--> Dominica #--> Rosesau
+Country--> Dominica #--> East Caribbean Dollar
+Country--> Dominica #--> English; French; Antillean Creole
+
+Country--> Dominican Republic #--> 
+Country--> Dominican Republic #--> Dominican Republic
+Country--> Dominican Republic #--> Santo Domingo
+Country--> Dominican Republic #--> Dominican Peso
+Country--> Dominican Republic #--> Spanish
+
+Country--> East Timor (Timor-Leste) #--> 
+Country--> East Timor (Timor-Leste) #--> East Timor (Timor-Leste)
+Country--> East Timor (Timor-Leste) #--> Dilli
+Country--> East Timor (Timor-Leste) #--> United States Dollar
+Country--> East Timor (Timor-Leste) #--> Tetum; Portuguese; Iindonesian
+
+Country--> Ecuador #--> 
+Country--> Ecuador #--> Ecuador
+Country--> Ecuador #--> Quito
+Country--> Ecuador #--> United States Dollar
+Country--> Ecuador #--> Spanish
+
+Country--> Egypt #--> 
+Country--> Egypt #--> Egypt
+Country--> Egypt #--> Cairo
+Country--> Egypt #--> Egyptian Pound
+Country--> Egypt #--> Arabic
+
+Country--> El Salvador #--> 
+Country--> El Salvador #--> El Salvador
+Country--> El Salvador #--> San Salvador
+Country--> El Salvador #--> United States Dollar
+Country--> El Salvador #--> Spanish
+
+Country--> Equitorial Guinea #--> 
+Country--> Equitorial Guinea #--> Equitorial Guinea
+Country--> Equitorial Guinea #--> Malabo
+Country--> Equitorial Guinea #--> Central African CFA Franc
+Country--> Equitorial Guinea #--> Spanish; French; Portuguese
+
+Country--> Eritrea #--> 
+Country--> Eritrea #--> Eritrea
+Country--> Eritrea #--> Asmara
+Country--> Eritrea #--> Nakfa
+Country--> Eritrea #--> Arabic; Tigrinya; English
+
+Country--> Estonia #--> 
+Country--> Estonia #--> Estonia
+Country--> Estonia #--> Tallinn
+Country--> Estonia #--> Estonian Kroon; Euro
+Country--> Estonia #--> Estonian
+
+Country--> Ethiopia #--> 
+Country--> Ethiopia #--> Ethiopia
+Country--> Ethiopia #--> Addis Ababa
+Country--> Ethiopia #--> Birr
+Country--> Ethiopia #--> Amharic
+
+Country--> Fiji #--> 
+Country--> Fiji #--> Fiji
+Country--> Fiji #--> Suva
+Country--> Fiji #--> Fijian Dollar
+Country--> Fiji #--> English; Bau Fijian; Hindi
+
+Country--> Finland #--> 
+Country--> Finland #--> Finland
+Country--> Finland #--> Helsinki
+Country--> Finland #--> Euro
+Country--> Finland #--> Finnish; Swedish
+
+Country--> France #--> 
+Country--> France #--> France
+Country--> France #--> Paris
+Country--> France #--> Euro; CFP Franc
+Country--> France #--> French
+
+Country--> Gabon #--> 
+Country--> Gabon #--> Gabon
+Country--> Gabon #--> Libreville
+Country--> Gabon #--> Central African CFA Franc
+Country--> Gabon #--> French
+
+Country--> The Gambia #--> 
+Country--> The Gambia #--> The Gambia
+Country--> The Gambia #--> Banjul
+Country--> The Gambia #--> Dalasi
+Country--> The Gambia #--> English
+
+Country--> Georgia #--> 
+Country--> Georgia #--> Georgia
+Country--> Georgia #--> Tbilisi
+Country--> Georgia #--> Lari
+Country--> Georgia #--> Georgian
+
+Country--> Germany #--> 
+Country--> Germany #--> Germany
+Country--> Germany #--> Berlin
+Country--> Germany #--> Euro
+Country--> Germany #--> German
+
+Country--> Ghana #--> 
+Country--> Ghana #--> Ghana
+Country--> Ghana #--> Accra
+Country--> Ghana #--> Ghanaian Cedi
+Country--> Ghana #--> English
+
+Country--> Greece #--> 
+Country--> Greece #--> Greece
+Country--> Greece #--> Athens
+Country--> Greece #--> Euro
+Country--> Greece #--> Greek
+
+Country--> Grenada #--> 
+Country--> Grenada #--> Grenada
+Country--> Grenada #--> St. George’s
+Country--> Grenada #--> East Caribbean Dollar
+Country--> Grenada #--> English; Patois
+
+Country--> Guatemala #--> 
+Country--> Guatemala #--> Guatemala
+Country--> Guatemala #--> Guatemala City
+Country--> Guatemala #--> Quetzal
+Country--> Guatemala #--> Spanish
+
+Country--> Guinea #--> 
+Country--> Guinea #--> Guinea
+Country--> Guinea #--> Conakry
+Country--> Guinea #--> Guinean Franc
+Country--> Guinea #--> French
+
+Country--> Guinea-Bissau #--> 
+Country--> Guinea-Bissau #--> Guinea-Bissau
+Country--> Guinea-Bissau #--> Bissau
+Country--> Guinea-Bissau #--> West African CFA Franc
+Country--> Guinea-Bissau #--> Portuguese
+
+Country--> Guyana #--> 
+Country--> Guyana #--> Guyana
+Country--> Guyana #--> Georgetown
+Country--> Guyana #--> Guyanese Dollar
+Country--> Guyana #--> English
+
+Country--> Haiti #--> 
+Country--> Haiti #--> Haiti
+Country--> Haiti #--> Port-au-Prince
+Country--> Haiti #--> Gourde
+Country--> Haiti #--> Haitian Creole; French
+
+Country--> Honduras #--> 
+Country--> Honduras #--> Honduras
+Country--> Honduras #--> Tegucigalpa
+Country--> Honduras #--> Lempira
+Country--> Honduras #--> Spanish
+
+Country--> Hungary #--> 
+Country--> Hungary #--> Hungary
+Country--> Hungary #--> Budapest
+Country--> Hungary #--> Forint
+Country--> Hungary #--> Hungarian
+
+Country--> Iceland #--> 
+Country--> Iceland #--> Iceland
+Country--> Iceland #--> Reykjavik
+Country--> Iceland #--> Icelandic Krona
+Country--> Iceland #--> Icelandic
+
+Country--> India #--> 
+Country--> India #--> India
+Country--> India #--> New Delhi
+Country--> India #--> Indian Rupee
+Country--> India #--> Hindi; English
+
+Country--> Indonesia #--> 
+Country--> Indonesia #--> Indonesia
+Country--> Indonesia #--> Jakarta
+Country--> Indonesia #--> Rupiah
+Country--> Indonesia #--> Indonesian
+
+Country--> Iran #--> 
+Country--> Iran #--> Iran
+Country--> Iran #--> Tehran
+Country--> Iran #--> Rial
+Country--> Iran #--> Persian
+
+Country--> Iraq #--> 
+Country--> Iraq #--> Iraq
+Country--> Iraq #--> Baghdad
+Country--> Iraq #--> Iraqi Dinar
+Country--> Iraq #--> Arabic; Kurdish
+
+Country--> Republic of Ireland #--> 
+Country--> Republic of Ireland #--> Republic of Ireland
+Country--> Republic of Ireland #--> Dublin
+Country--> Republic of Ireland #--> Euro
+Country--> Republic of Ireland #--> English; Irish
+
+Country--> Israel #--> 
+Country--> Israel #--> Israel
+Country--> Israel #--> Jerusalem
+Country--> Israel #--> Shekel
+Country--> Israel #--> Hebrew; Arabic
+
+Country--> Italy #--> 
+Country--> Italy #--> Italy
+Country--> Italy #--> Rome
+Country--> Italy #--> Euro
+Country--> Italy #--> Italian
+
+Country--> Jamaica #--> 
+Country--> Jamaica #--> Jamaica
+Country--> Jamaica #--> Kingston
+Country--> Jamaica #--> Jamaican Dollar
+Country--> Jamaica #--> English
+
+Country--> Japan #--> 
+Country--> Japan #--> Japan
+Country--> Japan #--> Tokyo
+Country--> Japan #--> Yen
+Country--> Japan #--> Japanese
+
+Country--> Jordan #--> 
+Country--> Jordan #--> Jordan
+Country--> Jordan #--> Amman
+Country--> Jordan #--> Jordanian Dinar
+Country--> Jordan #--> Arabic
+
+Country--> Kazakhstan #--> 
+Country--> Kazakhstan #--> Kazakhstan
+Country--> Kazakhstan #--> Astana
+Country--> Kazakhstan #--> Tenge
+Country--> Kazakhstan #--> Kazakh; Russian
+
+Country--> Kenya #--> 
+Country--> Kenya #--> Kenya
+Country--> Kenya #--> Nairobi
+Country--> Kenya #--> Kenyan Shilling
+Country--> Kenya #--> Swahili; English
+
+Country--> Kiribati #--> 
+Country--> Kiribati #--> Kiribati
+Country--> Kiribati #--> Tarawa Atoll
+Country--> Kiribati #--> Kiribati Dollar
+Country--> Kiribati #--> English; Gilbertese
+
+Country--> North Korea #--> 
+Country--> North Korea #--> North Korea
+Country--> North Korea #--> Pyongyang
+Country--> North Korea #--> North Korean Won
+Country--> North Korea #--> Korean
+
+Country--> South Korea #--> 
+Country--> South Korea #--> South Korea
+Country--> South Korea #--> Seoul
+Country--> South Korea #--> South Korean Won
+Country--> South Korea #--> Korean
+
+Country--> Kosovo #--> 
+Country--> Kosovo #--> Kosovo
+Country--> Kosovo #--> Pristina
+Country--> Kosovo #--> Euro
+Country--> Kosovo #--> Albanian; Serbian
+
+Country--> Kuwait #--> 
+Country--> Kuwait #--> Kuwait
+Country--> Kuwait #--> Kuwait City
+Country--> Kuwait #--> Kuwaiti Dollar
+Country--> Kuwait #--> Arabic; English
+
+Country--> Kyrgyzstan #--> 
+Country--> Kyrgyzstan #--> Kyrgyzstan
+Country--> Kyrgyzstan #--> Bishkek
+Country--> Kyrgyzstan #--> Som
+Country--> Kyrgyzstan #--> Kyrgyz; Russian
+
+Country--> Laos #--> 
+Country--> Laos #--> Laos
+Country--> Laos #--> Vientiane
+Country--> Laos #--> Kip
+Country--> Laos #--> Lao (Laotian)
+
+Country--> Latvia #--> 
+Country--> Latvia #--> Latvia
+Country--> Latvia #--> Riga
+Country--> Latvia #--> Lats
+Country--> Latvia #--> Latvian
+
+Country--> Lebanon #--> 
+Country--> Lebanon #--> Lebanon
+Country--> Lebanon #--> Beirut
+Country--> Lebanon #--> Lebanese Pound
+Country--> Lebanon #--> Arabic; French
+
+Country--> Lesotho #--> 
+Country--> Lesotho #--> Lesotho
+Country--> Lesotho #--> Maseru
+Country--> Lesotho #--> Loti
+Country--> Lesotho #--> Sesotho; English
+
+Country--> Liberia #--> 
+Country--> Liberia #--> Liberia
+Country--> Liberia #--> Monrovia
+Country--> Liberia #--> Liberian Dollar
+Country--> Liberia #--> English
+
+Country--> Libya #--> 
+Country--> Libya #--> Libya
+Country--> Libya #--> Tripoli
+Country--> Libya #--> Libyan Dinar
+Country--> Libya #--> Arabic
+
+Country--> Liechtenstein #--> 
+Country--> Liechtenstein #--> Liechtenstein
+Country--> Liechtenstein #--> Vaduz
+Country--> Liechtenstein #--> Swiss Franc
+Country--> Liechtenstein #--> German
+
+Country--> Lithuania #--> 
+Country--> Lithuania #--> Lithuania
+Country--> Lithuania #--> Vilnius
+Country--> Lithuania #--> Lithuanian Litas
+Country--> Lithuania #--> Lithuanian
+
+Country--> Luxembourg #--> 
+Country--> Luxembourg #--> Luxembourg
+Country--> Luxembourg #--> Luxembourg
+Country--> Luxembourg #--> Euro
+Country--> Luxembourg #--> German; French; Luxembourgish
+
+Country--> Macedonia #--> 
+Country--> Macedonia #--> Macedonia
+Country--> Macedonia #--> Skopje
+Country--> Macedonia #--> Macedonian Denar
+Country--> Macedonia #--> Macedonian
+
+Country--> Madagascar #--> 
+Country--> Madagascar #--> Madagascar
+Country--> Madagascar #--> Antananarivo
+Country--> Madagascar #--> Malagasy Ariary
+Country--> Madagascar #--> Malagasy; French; English
+
+Country--> Malawi #--> 
+Country--> Malawi #--> Malawi
+Country--> Malawi #--> Lilongwe
+Country--> Malawi #--> Malawi Kwacha
+Country--> Malawi #--> English
+
+Country--> Malaysia #--> 
+Country--> Malaysia #--> Malaysia
+Country--> Malaysia #--> Kuala Lumpur
+Country--> Malaysia #--> Ringgit
+Country--> Malaysia #--> Malay
+
+Country--> Maldives #--> 
+Country--> Maldives #--> Maldives
+Country--> Maldives #--> Male
+Country--> Maldives #--> Maldivian Rufiyaa
+Country--> Maldives #--> Dhivehi
+
+Country--> Mali #--> 
+Country--> Mali #--> Mali
+Country--> Mali #--> Bamako
+Country--> Mali #--> West African CFA Franc
+Country--> Mali #--> French
+
+Country--> Malta #--> 
+Country--> Malta #--> Malta
+Country--> Malta #--> Valletta
+Country--> Malta #--> Euro
+Country--> Malta #--> Maltese; English
+
+Country--> Marshall Islands #--> 
+Country--> Marshall Islands #--> Marshall Islands
+Country--> Marshall Islands #--> Majuro
+Country--> Marshall Islands #--> United States Dollar
+Country--> Marshall Islands #--> Marshallese; English
+
+Country--> Mauritania #--> 
+Country--> Mauritania #--> Mauritania
+Country--> Mauritania #--> Nouakchott
+Country--> Mauritania #--> Ouguiya
+Country--> Mauritania #--> Arabic
+
+Country--> Mauritius #--> 
+Country--> Mauritius #--> Mauritius
+Country--> Mauritius #--> Port Louis
+Country--> Mauritius #--> Mauritian Rupee
+Country--> Mauritius #--> English
+
+Country--> Mexico #--> 
+Country--> Mexico #--> Mexico
+Country--> Mexico #--> Mexico City
+Country--> Mexico #--> Mexican Peso
+Country--> Mexico #--> Spanish
+
+Country--> Federal States of Micronesia #--> 
+Country--> Federal States of Micronesia #--> Federal States of Micronesia
+Country--> Federal States of Micronesia #--> Palikir
+Country--> Federal States of Micronesia #--> United States Dollar
+Country--> Federal States of Micronesia #--> English
+
+Country--> Moldova #--> 
+Country--> Moldova #--> Moldova
+Country--> Moldova #--> Chisinau
+Country--> Moldova #--> Moldovan Leu
+Country--> Moldova #--> Moldovan (Romanian)
+
+Country--> Monaco #--> 
+Country--> Monaco #--> Monaco
+Country--> Monaco #--> Monaco
+Country--> Monaco #--> Euro
+Country--> Monaco #--> French; Italian; English
+
+Country--> Mongolia #--> 
+Country--> Mongolia #--> Mongolia
+Country--> Mongolia #--> Ulaanbaatar
+Country--> Mongolia #--> Togrog
+Country--> Mongolia #--> Mongolian
+
+Country--> Montenegro #--> 
+Country--> Montenegro #--> Montenegro
+Country--> Montenegro #--> Podgorica
+Country--> Montenegro #--> Euro
+Country--> Montenegro #--> Montenegrin
+
+Country--> Morocco #--> 
+Country--> Morocco #--> Morocco
+Country--> Morocco #--> Rabat
+Country--> Morocco #--> Moroccan Dirham
+Country--> Morocco #--> Arabic
+
+Country--> Mozambique #--> 
+Country--> Mozambique #--> Mozambique
+Country--> Mozambique #--> Maputo
+Country--> Mozambique #--> Mozambican Metical
+Country--> Mozambique #--> Portuguese
+
+Country--> Myanmar (Burma) #--> 
+Country--> Myanmar (Burma) #--> Myanmar (Burma)
+Country--> Myanmar (Burma) #--> Nypyidaw
+Country--> Myanmar (Burma) #--> Kyat
+Country--> Myanmar (Burma) #--> Burmese
+
+Country--> Namibia #--> 
+Country--> Namibia #--> Namibia
+Country--> Namibia #--> Windhoek
+Country--> Namibia #--> Namibian Dollar
+Country--> Namibia #--> English; Afrikaans; German
+
+Country--> Nauru #--> 
+Country--> Nauru #--> Nauru
+Country--> Nauru #--> Yaren
+Country--> Nauru #--> Australian Dollar
+Country--> Nauru #--> English; Nauran
+
+Country--> Nepal #--> 
+Country--> Nepal #--> Nepal
+Country--> Nepal #--> Kathmandu
+Country--> Nepal #--> Nepalese Rupee
+Country--> Nepal #--> Nepali
+
+Country--> Netherlands #--> 
+Country--> Netherlands #--> Netherlands
+Country--> Netherlands #--> Amsterdam; The Hague
+Country--> Netherlands #--> Euro
+Country--> Netherlands #--> Dutch
+
+Country--> New Zealand #--> 
+Country--> New Zealand #--> New Zealand
+Country--> New Zealand #--> Wellington
+Country--> New Zealand #--> New Zealand Dollar
+Country--> New Zealand #--> English
+
+Country--> Nicaragua #--> 
+Country--> Nicaragua #--> Nicaragua
+Country--> Nicaragua #--> Managua
+Country--> Nicaragua #--> Cordoba
+Country--> Nicaragua #--> Spanish
+
+Country--> Niger #--> 
+Country--> Niger #--> Niger
+Country--> Niger #--> Niamey
+Country--> Niger #--> West African CFA Franc
+Country--> Niger #--> French
+
+Country--> Nigeria #--> 
+Country--> Nigeria #--> Nigeria
+Country--> Nigeria #--> Abuja
+Country--> Nigeria #--> Naira
+Country--> Nigeria #--> English
+
+Country--> Norway #--> 
+Country--> Norway #--> Norway
+Country--> Norway #--> Oslo
+Country--> Norway #--> Norwegian Krone
+Country--> Norway #--> Norwegian
+
+Country--> Oman #--> 
+Country--> Oman #--> Oman
+Country--> Oman #--> Muscat
+Country--> Oman #--> Omani Rial
+Country--> Oman #--> Arabic
+
+Country--> Pakistan #--> 
+Country--> Pakistan #--> Pakistan
+Country--> Pakistan #--> Islamabad
+Country--> Pakistan #--> Pakistani Rupee
+Country--> Pakistan #--> Urdu; English
+
+Country--> Palau #--> 
+Country--> Palau #--> Palau
+Country--> Palau #--> Melekeok
+Country--> Palau #--> United States Dollar
+Country--> Palau #--> English; Palauan
+
+Country--> Panama #--> 
+Country--> Panama #--> Panama
+Country--> Panama #--> Panama City
+Country--> Panama #--> Balboa
+Country--> Panama #--> Spanish
+
+Country--> Papa New Guinea #--> 
+Country--> Papa New Guinea #--> Papa New Guinea
+Country--> Papa New Guinea #--> Port Moresby Papa
+Country--> Papa New Guinea #--> Papa New Guinean Kina
+Country--> Papa New Guinea #--> English; Tok Pisin;
+Hiri Motu
+
+Country--> Paraguay #--> 
+Country--> Paraguay #--> Paraguay
+Country--> Paraguay #--> Asuncion
+Country--> Paraguay #--> Guarani
+Country--> Paraguay #--> Spanish; Guarani
+
+Country--> Peru #--> 
+Country--> Peru #--> Peru
+Country--> Peru #--> Lima
+Country--> Peru #--> Nuevo Sol
+Country--> Peru #--> Spanish
+
+
+Phillipines
+Manila
+Phillipine Peso
+Filipino; English
+
+Country--> Poland #--> 
+Country--> Poland #--> Poland
+Country--> Poland #--> Warsaw
+Country--> Poland #--> Zloty
+Country--> Poland #--> Polish
+
+Country--> Portugal #--> 
+Country--> Portugal #--> Portugal
+Country--> Portugal #--> Lisbon
+Country--> Portugal #--> Euro
+Country--> Portugal #--> Portuguese
+
+Country--> Qatar #--> 
+Country--> Qatar #--> Qatar
+Country--> Qatar #--> Doha
+Country--> Qatar #--> Qatari Riyal
+Country--> Qatar #--> Arabic
+
+Country--> Romania #--> 
+Country--> Romania #--> Romania
+Country--> Romania #--> Bucharest
+Country--> Romania #--> Romanian Rupee
+Country--> Romania #--> Romanian
+
+Country--> Romania #--> 
+Country--> Romania #--> Romania
+Country--> Romania #--> Bucharest
+Country--> Romania #--> Romanian Rupee
+Country--> Romania #--> Romanian
+
+Country--> Russia #--> 
+Country--> Russia #--> Russia
+Country--> Russia #--> Moscow
+Country--> Russia #--> Ruble
+Country--> Russia #--> Russian
+
+Country--> Rwanda #--> 
+Country--> Rwanda #--> Rwanda
+Country--> Rwanda #--> Kigali
+Country--> Rwanda #--> Rwandan Franc
+Country--> Rwanda #--> Kinyarwanda; French; English
+
+Country--> Saint Kitts and Nevis #--> 
+Country--> Saint Kitts and Nevis #--> Saint Kitts and Nevis
+Country--> Saint Kitts and Nevis #--> Basseterre
+Country--> Saint Kitts and Nevis #--> East Caribbean Dollar
+Country--> Saint Kitts and Nevis #--> English
+
+Country--> Saint Lucia #--> 
+Country--> Saint Lucia #--> Saint Lucia
+Country--> Saint Lucia #--> Castries
+Country--> Saint Lucia #--> East Caribbean Dollar
+Country--> Saint Lucia #--> English; French
+
+Country--> Saint Vincent and #--> 
+Country--> Saint Vincent and #--> Saint Vincent and
+The Grenadines
+Country--> Saint Vincent and #--> Kingstown East
+Country--> Saint Vincent and #--> Caribbean Dollar
+Country--> Saint Vincent and #--> English
+
+Country--> Samoa #--> 
+Country--> Samoa #--> Samoa
+Country--> Samoa #--> Apia
+Country--> Samoa #--> Tala
+Country--> Samoa #--> Samoan; English
+
+Country--> San Marino #--> 
+Country--> San Marino #--> San Marino
+Country--> San Marino #--> San Marino
+Country--> San Marino #--> Euro
+Country--> San Marino #--> Italian
+
+Country--> Sao Tome and Principe #--> 
+Country--> Sao Tome and Principe #--> Sao Tome and Principe
+Country--> Sao Tome and Principe #--> Sao Tome
+Country--> Sao Tome and Principe #--> Dobra
+Country--> Sao Tome and Principe #--> Portuguese
+
+Country--> Saudi Arabia #--> 
+Country--> Saudi Arabia #--> Saudi Arabia
+Country--> Saudi Arabia #--> Riyadh
+Country--> Saudi Arabia #--> Saudi Riyal
+Country--> Saudi Arabia #--> Arabic
+
+Country--> Senegal #--> 
+Country--> Senegal #--> Senegal
+Country--> Senegal #--> Dakar
+Country--> Senegal #--> West African CFA Franc
+Country--> Senegal #--> French
+
+Country--> Serbia #--> 
+Country--> Serbia #--> Serbia
+Country--> Serbia #--> Belgrade
+Country--> Serbia #--> Serbian Dinar
+Country--> Serbia #--> Serbian
+
+Country--> Seychelles #--> 
+Country--> Seychelles #--> Seychelles
+Country--> Seychelles #--> Victoria
+Country--> Seychelles #--> Seychoellois Rupee
+Country--> Seychelles #--> Seychellois Creole;
+French; English
+
+Country--> Sierra Leone #--> 
+Country--> Sierra Leone #--> Sierra Leone
+Country--> Sierra Leone #--> Freetown
+Country--> Sierra Leone #--> Leone
+Country--> Sierra Leone #--> Krio; English
+
+Country--> Singapore #--> 
+Country--> Singapore #--> Singapore
+Country--> Singapore #--> Singapore
+Country--> Singapore #--> Singapore Dollar
+Country--> Singapore #--> English; Malay;
+Mandarin Chinese
+
+Country--> Slovakia #--> 
+Country--> Slovakia #--> Slovakia
+Country--> Slovakia #--> Bratislava
+Country--> Slovakia #--> Euro
+Country--> Slovakia #--> Slovak
+
+Country--> Slovenia #--> 
+Country--> Slovenia #--> Slovenia
+Country--> Slovenia #--> Ljubljana
+Country--> Slovenia #--> Euro
+Country--> Slovenia #--> Slovene
+
+Country--> Solomon Islands #--> 
+Country--> Solomon Islands #--> Solomon Islands
+Country--> Solomon Islands #--> Honiara
+Country--> Solomon Islands #--> Solomon Islands Dollar
+Country--> Solomon Islands #--> Solomons Pijin
+
+Country--> Somalia #--> 
+Country--> Somalia #--> Somalia
+Country--> Somalia #--> Mogadishu
+Country--> Somalia #--> Somali Shilling
+Country--> Somalia #--> Somali; Arabic
+
+Country--> South Africa #--> 
+Country--> South Africa #--> South Africa
+Country--> South Africa #--> Pretoria; Cape Town;
+Bloemfontein
+Country--> South Africa #--> Rand
+Country--> South Africa #--> Zulu; Xhosa; Afrikaans
+
+Country--> Spain #--> 
+Country--> Spain #--> Spain
+Country--> Spain #--> Madrid
+Country--> Spain #--> Euro
+Country--> Spain #--> Spanish
+
+Country--> Sri Lanka #--> 
+Country--> Sri Lanka #--> Sri Lanka
+Country--> Sri Lanka #--> Colombo
+Country--> Sri Lanka #--> Sri Lankan Rupee
+Country--> Sri Lanka #--> Sinhala; Tamil
+
+Country--> Sudan #--> 
+Country--> Sudan #--> Sudan
+Country--> Sudan #--> Khartoum
+Country--> Sudan #--> Sudanese Pound
+Country--> Sudan #--> Arabic; English
+
+Country--> Suriname #--> 
+Country--> Suriname #--> Suriname
+Country--> Suriname #--> Paramaribo
+Country--> Suriname #--> Surinamese Dollar
+Country--> Suriname #--> Dutch
+
+Country--> Swaziland #--> 
+Country--> Swaziland #--> Swaziland
+Country--> Swaziland #--> Mbabane
+Country--> Swaziland #--> Lilangeni
+Country--> Swaziland #--> English; SiSwati
+
+Country--> Sweden #--> 
+Country--> Sweden #--> Sweden
+Country--> Sweden #--> Stockholm
+Country--> Sweden #--> Swedish Krona
+Country--> Sweden #--> Swedish
+
+Country--> Switzerland #--> 
+Country--> Switzerland #--> Switzerland
+Country--> Switzerland #--> Berne
+Country--> Switzerland #--> Swiss Franc
+Country--> Switzerland #--> German; French; Italian
+
+Country--> Syria #--> 
+Country--> Syria #--> Syria
+Country--> Syria #--> Damascus
+Country--> Syria #--> Syrian Pound
+Country--> Syria #--> Arabic
+
+Country--> Taiwan #--> 
+Country--> Taiwan #--> Taiwan
+Country--> Taiwan #--> Taipei
+Country--> Taiwan #--> New Taiwan Dollar
+Country--> Taiwan #--> Mandarin
+
+Country--> Tajikistan #--> 
+Country--> Tajikistan #--> Tajikistan
+Country--> Tajikistan #--> Dushanbe
+Country--> Tajikistan #--> Somoni
+Country--> Tajikistan #--> Tajik; Russian
+
+Country--> Tanzania #--> 
+Country--> Tanzania #--> Tanzania
+Country--> Tanzania #--> Dar es Salaam; Dodoma
+Country--> Tanzania #--> Tanzanian Schilling
+Country--> Tanzania #--> Swahili
+
+Country--> Thailand #--> 
+Country--> Thailand #--> Thailand
+Country--> Thailand #--> Bangkok
+Country--> Thailand #--> Thai Baht
+Country--> Thailand #--> Thai
+
+Country--> Togo #--> 
+Country--> Togo #--> Togo
+Country--> Togo #--> Lome
+Country--> Togo #--> West African CFA Franc
+Country--> Togo #--> French
+
+Country--> Tonga #--> 
+Country--> Tonga #--> Tonga
+Country--> Tonga #--> Nuku’alofa
+Country--> Tonga #--> Pa’anga
+Country--> Tonga #--> Tongan; English
+
+Country--> Trinidad and Tobago #--> 
+Country--> Trinidad and Tobago #--> Trinidad and Tobago
+Country--> Trinidad and Tobago #--> Port-of-Spain
+Country--> Trinidad and Tobago #--> Trinidad and Tobago Dollar
+Country--> Trinidad and Tobago #--> English
+
+Country--> Tunisia #--> 
+Country--> Tunisia #--> Tunisia
+Country--> Tunisia #--> Tunis
+Country--> Tunisia #--> Tunisian Dinar
+Country--> Tunisia #--> Tunisian; French
+
+Country--> Turkey #--> 
+Country--> Turkey #--> Turkey
+Country--> Turkey #--> Ankara
+Country--> Turkey #--> Turkish Lira
+Country--> Turkey #--> Turkish
+
+Country--> Turkmenistan #--> 
+Country--> Turkmenistan #--> Turkmenistan
+Country--> Turkmenistan #--> Ashgabat
+Country--> Turkmenistan #--> Turkmen New Manat
+Country--> Turkmenistan #--> Turkmen; Russian
+
+Country--> Tuvalu #--> 
+Country--> Tuvalu #--> Tuvalu
+Country--> Tuvalu #--> Vaiaku
+Country--> Tuvalu #--> Tuvaluan Dollar
+Country--> Tuvalu #--> Tuvaluan; English
+
+Country--> Uganda #--> 
+Country--> Uganda #--> Uganda
+Country--> Uganda #--> Kampala
+Country--> Uganda #--> Ugandan Shilling
+Country--> Uganda #--> Swahili; English
+
+Country--> Ukraine #--> 
+Country--> Ukraine #--> Ukraine
+Country--> Ukraine #--> Kiev
+Country--> Ukraine #--> Hryvnia
+Country--> Ukraine #--> Ukranian; Russian
+
+Country--> United Arab Emirates #--> 
+Country--> United Arab Emirates #--> United Arab Emirates
+Country--> United Arab Emirates #--> Abu Dhabi
+Country--> United Arab Emirates #--> Dirham
+Country--> United Arab Emirates #--> Arabic
+
+Country--> United Kingdom #--> 
+Country--> United Kingdom #--> United Kingdom
+Country--> United Kingdom #--> London
+Country--> United Kingdom #--> Pound Sterling
+Country--> United Kingdom #--> English
+
+Country--> United States of America #--> 
+Country--> United States of America #--> United States of America
+Country--> United States of America #--> Washington D.C.
+Country--> United States of America #--> United States Dollar
+Country--> United States of America #--> English; Spanish
+
+Country--> Uruguay #--> 
+Country--> Uruguay #--> Uruguay
+Country--> Uruguay #--> Montevideo
+Country--> Uruguay #--> Uruguayan Peso
+Country--> Uruguay #--> Spanish
+
+Country--> Uzbekistan #--> 
+Country--> Uzbekistan #--> Uzbekistan
+Country--> Uzbekistan #--> Tashkent
+Country--> Uzbekistan #--> Uzbekistan Som
+Country--> Uzbekistan #--> Uzbek; Russian
+
+Country--> Vanuatu #--> 
+Country--> Vanuatu #--> Vanuatu
+Country--> Vanuatu #--> Port-Vila
+Country--> Vanuatu #--> Vanuatu Vatu
+Country--> Vanuatu #--> Bislama; English; French
+
+Country--> Vatican City #--> 
+Country--> Vatican City #--> Vatican City
+Country--> Vatican City #--> Vatican City
+Country--> Vatican City #--> Euro
+Country--> Vatican City #--> Latin; Italian
+
+Country--> Venezuela #--> 
+Country--> Venezuela #--> Venezuela
+Country--> Venezuela #--> Caracas
+Country--> Venezuela #--> Bolivar Fuerte
+Country--> Venezuela #--> Spanish
+
+Country--> Vietnam #--> 
+Country--> Vietnam #--> Vietnam
+Country--> Vietnam #--> Hanoi
+Country--> Vietnam #--> Dong
+Country--> Vietnam #--> Vietnamese
+
+Country--> Yemen #--> 
+Country--> Yemen #--> Yemen
+Country--> Yemen #--> Sanaa
+Country--> Yemen #--> Yemeni Rial
+Country--> Yemen #--> Arabic
+
+Country--> Zambia #--> 
+Country--> Zambia #--> Zambia
+Country--> Zambia #--> Lusaka
+Country--> Zambia #--> Zambian Kwacha
+Country--> Zambia #--> English
+
+Country--> Zimbabwe #--> 
+Country--> Zimbabwe #--> Zimbabwe
+Country--> Zimbabwe #--> Harare
+Country--> Zimbabwe #--> United States Dollar
+Country--> Zimbabwe #--> English
+
