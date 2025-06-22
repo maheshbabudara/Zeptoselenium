@@ -62,7 +62,7 @@ location = os.getcwd()
 @pytest.fixture
 def b():
     option = Options()
-    b = WebDriver(options=option)
+    b = WebDriver()
     option.add_argument("--disable-Notifications")
     option.add_argument("--headless")
     option.add_argument("--disable-gpu")
