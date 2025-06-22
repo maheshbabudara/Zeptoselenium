@@ -32,23 +32,44 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
-@pytest.fixture(autouse=True)
-def setup(browser, request):
-    global driver
+import pytest
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.firefox.service import Service as FirefoxService
+from selenium.webdriver.edge.service import Service as EdgeService
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
+
+@pytest.fixture(scope="class", autouse=True)
+def setup(request, browser):
     if browser == "chrome":
-        driver = webdriver.Chrome(service=ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
     elif browser == "firefox":
-        driver = webdriver.Firefox(service=GeckoDriverManager().install())
+        driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
     elif browser == "edge":
-        driver = webdriver.Edge(service=EdgeChromiumDriverManager().install())
+        driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
+    else:
+        raise Exception(f"Unsupported browser: {browser}")
 
-    driver.get("https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLzFNMjZg9OLOTcxILc5QSEpMKgUAUwYHOg&q=mahesh+babu&oq=mahesh&gs_lcrp=EgZjaHJvbWUqDAgBEC4YJxiABBiKBTIPCAAQIxgnGOMCGIAEGIoFMgwIARAuGCcYgAQYigUyBggCEEUYOTIPCAMQLhhDGLEDGIAEGIoFMg8IBBAAGEMYsQMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMDY3ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8")
     driver.maximize_window()
+    driver.get("https://www.google.com")
+
     request.cls.driver = driver
+    yield
+    driver.quit()
 
-    yield driver  # This will allow the test to run
+# Hook to add command-line option
+def pytest_addoption(parser):
+    parser.addoption(
+        "--browser", action="store", default="chrome", help="Browser to run tests with: chrome/firefox/edge"
+    )
 
-    driver.quit()  # Ensure the driver quits after the tests
+# Fixture to return browser value from CLI
+@pytest.fixture(scope="session")
+def browser(request):
+    return request.config.getoption("--browser")
+
 
 def pytest_addoption(parser):
     parser.addoption("--browser", action="store", default="chrome", help="Choose browser: chrome, firefox, edge")
