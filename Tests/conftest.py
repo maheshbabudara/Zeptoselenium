@@ -1,4 +1,4 @@
-# import pytest
+import pytest
 # from selenium.webdriver.chrome.webdriver import WebDriver
 # from selenium.webdriver.chrome.options import Options
 # from time import sleep
@@ -6,22 +6,22 @@
 # location=os.getcwd()
 #
 #
-#
-# @pytest.fixture
-# def demo():
-#     demo=WebDriver()
-#     option=Options()
-#     option.add_argument("--disable-Notifications")
-#     option.add_argument("--headless")
-#     option.add_argument("--disable-gpu")
-#     option.add_experimental_option("detach",True)
-#     preferences={"download.default_directory":location,"always.open_pdf_externally":True}
-#     option.add_experimental_option("prefs",preferences)
-#     demo.get("https://demowebshop.tricentis.com/")
-#     demo.implicitly_wait(10)
-#     demo.maximize_window()
-#     yield demo
-#     demo.close()
+
+@pytest.fixture
+def demo():
+    demo=WebDriver()
+    option=Options()
+    option.add_argument("--disable-Notifications")
+    option.add_argument("--headless")
+    option.add_argument("--disable-gpu")
+    option.add_experimental_option("detach",True)
+    preferences={"download.default_directory":location,"always.open_pdf_externally":True}
+    option.add_experimental_option("prefs",preferences)
+    demo.get("https://demowebshop.tricentis.com/")
+    demo.implicitly_wait(10)
+    demo.maximize_window()
+    yield demo
+    demo.close()
 #
 #
 # @pytest.fixture()
