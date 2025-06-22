@@ -1,11 +1,10 @@
 import pytest
-# from selenium.webdriver.chrome.webdriver import WebDriver
-# from selenium.webdriver.chrome.options import Options
-# from time import sleep
-# import os
+from selenium.webdriver.chrome.webdriver import WebDriver
+from selenium.webdriver.chrome.options import Options
+from time import sleep
+import os
 # location=os.getcwd()
-#
-#
+
 
 @pytest.fixture
 def demo():
@@ -61,6 +60,8 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 location = os.getcwd()
 
 
+
+
 @pytest.fixture
 def b():
     option = Options()
@@ -78,7 +79,7 @@ def b():
     b.close()
 
 
-location = os.getcwd()
+# location = os.getcwd()
 
 @pytest.fixture()
 def zepto():
