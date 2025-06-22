@@ -159,7 +159,7 @@ class Base:
         return element
 
     def search_elements(self, locator):
-        elements=WebDriverWait(self.driver,10,poll_frequency=0.4,ignored_exceptions=[NoSuchElementException,ElementNotVisibleException,
+        elements=WebDriverWait(self.driver,10,poll_frequency=0.5,ignored_exceptions=[NoSuchElementException,ElementNotVisibleException,
                                                                                      ElementNotSelectableException,Exception]).until(
             e.visibility_of_all_elements_located(locator)
         )
