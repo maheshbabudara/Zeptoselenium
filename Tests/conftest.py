@@ -6,7 +6,7 @@ import os
 # location=os.getcwd()
 
 
-@pytest.fixture
+@pytest.fixture()
 def demo():
     demo=WebDriver()
     option=Options()
@@ -59,7 +59,7 @@ from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.firefox.service import Service as FirefoxService
 location = os.getcwd()
 
-@pytest.fixture
+@pytest.fixture()
 def b():
     option = Options()
     b = WebDriver()
