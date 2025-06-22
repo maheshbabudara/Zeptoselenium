@@ -59,21 +59,38 @@ from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.firefox.service import Service as FirefoxService
 location = os.getcwd()
 
+import pytest
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+
 @pytest.fixture()
 def b():
-    option = Options()
-    b = WebDriver()
-    option.add_argument("--disable-Notifications")
-    option.add_argument("--headless")
-    option.add_argument("--disable-gpu")
-    preferences = {"download.default_directory": location, 'plugins.always_open_pdf_externally': True}
-    option.add_experimental_option('prefs', preferences)
-    option.add_experimental_option("detach", True)
-    b.get("https://testautomationpractice.blogspot.com/")
-    b.maximize_window()
-    b.implicitly_wait(10)
-    yield b
-    b.close()
+    location = "/tmp/downloads"  # Or any valid path you want
+
+    options = Options()
+    driver = WebDriver()
+    preferences = {
+        "download.default_directory": location,
+        "plugins.always_open_pdf_externally": True
+    }
+    options.add_experimental_option("prefs", preferences)
+    options.add_experimental_option("detach", True)
+
+    # Headless + CI-safe options
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    # Create driver with options
+    driver.get("https://testautomationpractice.blogspot.com/")
+    driver.maximize_window()
+    driver.implicitly_wait(10)
+
+    yield driver
+
+    driver.quit()
+
 
 
 # location = os.getcwd()
